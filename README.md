@@ -267,10 +267,4 @@ Are you crazy about making easy for newbies and other web artisans to easily get
 ## Credit
 - Open Laravel
 
-##  You want to appreciate me?
-
-You can appreciate me by **starring** this repository and follow me on [Github](https://github.com/goodnesskay) , [twitter](https://twitter.com/goodnesskayode) and subscribe to my [Youtube](https://www.youtube.com/channel/UC3h5EkjLBS5VtpJRVRrMD-Q) Channel!
-
-I love you too.
-
 **Goodness Kayode | Pusher of Codes**
